@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "Which programming language is this quiz written in?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "question": "What does 'JSON' stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Naming",
+      "JavaScript Online Network",
+      "Java Output Service Name"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "Which module is used to parse JSON in Python?",
+    "options": [
+      "parser",
+      "xml",
+      "jsontools",
+      "json"
+    ],
+    "correct_answer_index": 3
+  }
+]
